@@ -1357,7 +1357,7 @@ Exemplary Response
         "save": "Save",
         "yes": "Yes",
         "no": "No",
-        "admin_footer": "2018 Open Loyalty",
+        "admin_footer": "2020 Nimble CX",
         "true": "True",
         "false": "False",
         "edit": "Edit",
