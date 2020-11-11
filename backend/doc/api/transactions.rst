@@ -230,7 +230,7 @@ Exemplary Response
           "documentType": "sell",
           "customerId": "00000000-0000-474c-b092-b0dd880c07e1",
           "customerData": {
-            "email": "user@oloy.com",
+            "email": "user@nimblehq.co",
             "name": "Jan Nowak",
             "nip": "aaa",
             "phone": "123",
@@ -410,7 +410,7 @@ Exemplary Response
       "documentType": "sell",
       "customerId": "00000000-0000-474c-b092-b0dd880c07e1",
       "customerData": {
-        "email": "user@oloy.com",
+        "email": "user@nimblehq.co",
         "name": "Jan Nowak",
         "nip": "aaa",
         "phone": "123",
@@ -983,7 +983,7 @@ Exemplary Response
           "documentType": "sell",
           "customerId": "00000000-0000-474c-b092-b0dd880c07e1",
           "customerData": {
-            "email": "user@oloy.com",
+            "email": "user@nimblehq.co",
             "name": "Jan Nowak",
             "nip": "aaa",
             "phone": "123",
@@ -1126,7 +1126,7 @@ Definition
 +==============================================+================+===================================================+
 | Authorization                                | header         | Token received during authentication              |
 +----------------------------------------------+----------------+---------------------------------------------------+
-| transaction[transactionData][documentType]   | query          | Document type for Transaction Data, 2 possible    | 
+| transaction[transactionData][documentType]   | query          | Document type for Transaction Data, 2 possible    |
 |                                              |                | values: return, sell                              |
 +----------------------------------------------+----------------+---------------------------------------------------+
 | transaction[transactionData][documentNumber] | query          | Document number                                   |

@@ -83,7 +83,7 @@ Exemplary Response
                 "customerFirstName": "John",
                 "customerLastName": "Doe",
                 "customerLoyaltyCardNumber": "47834433524",
-                "customerEmail": "user@oloy.com",
+                "customerEmail": "user@nimblehq.co",
                 "customerPhone": "+48234234000",
                 "createdAt": "2018-09-13T16:37:33+0200",
                 "expiresAt": "2018-10-13T16:37:33+0200",
@@ -100,7 +100,7 @@ Exemplary Response
                 "customerFirstName": "John",
                 "customerLastName": "Doe",
                 "customerLoyaltyCardNumber": "47834433524",
-                "customerEmail": "user@oloy.com",
+                "customerEmail": "user@nimblehq.co",
                 "customerPhone": "+48234234000",
                 "createdAt": "2018-09-13T16:37:33+0200",
                 "expiresAt": "2018-10-13T16:37:33+0200",
@@ -153,7 +153,7 @@ Exemplary Response
         ],
         "total": 2
     }
-  
+
 
 Get a complete list of Points transfers (seller)
 ------------------------------------------------
@@ -233,7 +233,7 @@ Exemplary Response
                 "customerFirstName": "John",
                 "customerLastName": "Doe",
                 "customerLoyaltyCardNumber": "47834433524",
-                "customerEmail": "user@oloy.com",
+                "customerEmail": "user@nimblehq.co",
                 "customerPhone": "+48234234000",
                 "createdAt": "2018-09-13T16:37:33+0200",
                 "expiresAt": "2018-10-13T16:37:33+0200",
@@ -372,7 +372,7 @@ Exemplary Response
                 "customerFirstName": "John",
                 "customerLastName": "Doe",
                 "customerLoyaltyCardNumber": "47834433524",
-                "customerEmail": "user@oloy.com",
+                "customerEmail": "user@nimblehq.co",
                 "customerPhone": "+48234234000",
                 "createdAt": "2018-09-13T16:37:33+0200",
                 "expiresAt": "2018-10-13T16:37:33+0200",
@@ -389,7 +389,7 @@ Exemplary Response
                 "customerFirstName": "John",
                 "customerLastName": "Doe",
                 "customerLoyaltyCardNumber": "47834433524",
-                "customerEmail": "user@oloy.com",
+                "customerEmail": "user@nimblehq.co",
                 "customerPhone": "+48234234000",
                 "createdAt": "2018-09-13T16:37:33+0200",
                 "expiresAt": "2018-10-13T16:37:33+0200",

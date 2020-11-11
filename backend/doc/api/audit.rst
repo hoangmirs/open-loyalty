@@ -97,7 +97,7 @@ Exemplary Response
             "lastName": "Doe",
             "gender": "male",
             "phone": "11111",
-            "email": "user@oloy.com",
+            "email": "user@nimblehq.co",
             "birthDate": 653011200,
             "createdAt": 1470646394,
             "company": {

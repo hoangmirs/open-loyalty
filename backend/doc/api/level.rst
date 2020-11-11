@@ -162,7 +162,7 @@ Definition
 +------------------------------------------------+----------------+----------------------------------------------------------------------------+
 | level[specialRewards][][name]                  | request        |  First special reward name                                                 |
 +------------------------------------------------+----------------+----------------------------------------------------------------------------+
-| level[specialRewards][][startAt]               | request        |  First special reward visible from YYYY-MM-DD HH:mm, for example           | 
+| level[specialRewards][][startAt]               | request        |  First special reward visible from YYYY-MM-DD HH:mm, for example           |
 |                                                |                |   ``2018-02-01 8:33``. *(required only if ``allTimeVisible=0``)*           |
 +------------------------------------------------+----------------+----------------------------------------------------------------------------+
 | level[specialRewards][][endAt]                 | request        |  First special reward visible to YYYY-MM-DD HH:mm, for example             |
@@ -326,7 +326,7 @@ Definition
 +------------------------------------------------+----------------+----------------------------------------------------------------------------+
 | level[specialRewards][][name]                  | request        |  First special reward name                                                 |
 +------------------------------------------------+----------------+----------------------------------------------------------------------------+
-| level[specialRewards][][startAt]               | request        |  First special reward visible from YYYY-MM-DD HH:mm, for example           | 
+| level[specialRewards][][startAt]               | request        |  First special reward visible from YYYY-MM-DD HH:mm, for example           |
 |                                                |                |  ``2018-02-01 8:33``. *(required only if ``allTimeVisible=0``)*            |
 +------------------------------------------------+----------------+----------------------------------------------------------------------------+
 | level[specialRewards][][endAt]                 | request        |  First special reward visible to YYYY-MM-DD HH:mm, for example             |
@@ -452,7 +452,7 @@ Example
 To see the list of campaigns for a level with ID ``customer = 000096cf-32a3-43bd-9034-4df343e5fd93`` use the below method:
 
 .. code-block:: bash
-    
+
     curl http://localhost:8181/api/admin/level/000096cf-32a3-43bd-9034-4df343e5fd93/customers \
         -X "GET" \
         -H "Accept: application/json" \
@@ -493,7 +493,7 @@ Exemplary Response
           "customerId": "00000000-0000-474c-b092-b0dd880c07e1",
           "firstName": "John",
           "lastName": "Doe",
-          "email": "user@oloy.com"
+          "email": "user@nimblehq.co"
         }
       ],
       "total": 4

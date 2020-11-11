@@ -573,7 +573,7 @@ Definition
 Example
 ^^^^^^^
 
- To see list of language translations use the below method: 
+ To see list of language translations use the below method:
 
 .. code-block:: bash
 
@@ -752,7 +752,7 @@ Example
 ^^^^^^^
 
  To see details of ``emailId = c60f1033-b1d0-4033-b9fe-7a3c230c4479``email use the below method:
- 
+
 .. code-block:: bash
 
     curl http://localhost:8181/api/settings/emails/c60f1033-b1d0-4033-b9fe-7a3c230c4479 \

@@ -1164,7 +1164,7 @@ Exemplary Response
           "firstName": "John",
           "lastName": "Doe",
           "gender": "male",
-          "email": "user@oloy.com",
+          "email": "user@nimblehq.co",
           "phone": "11111",
           "birthDate": "1990-09-11T02:00:00+0200",
           "createdAt": "2016-08-08T10:53:14+0200",
