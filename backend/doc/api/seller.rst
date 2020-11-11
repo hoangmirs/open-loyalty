@@ -64,11 +64,11 @@ Exemplary Response
     {
       "sellers": [
         {
-          "name": "John2 Doe2",
+          "name": "John Smith",
           "sellerId": "00000000-0000-474c-b092-b0dd880c07e5",
-          "firstName": "John2",
-          "lastName": "Doe2",
-          "email": "john2@doe2.com",
+          "firstName": "John",
+          "lastName": "Smith",
+          "email": "seller@nimblehq.co",
           "phone": "0000000011",
           "posId": "00000000-0000-474c-1111-b0dd880c07e3",
           "posName": "test1",
